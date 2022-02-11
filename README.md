@@ -1,2 +1,2 @@
-# GIT_1
-TESTES COM GIT
+##  Esse Repositório foi elaborado para compartilhar meus códigos dos desafios ***Codewar***
+
